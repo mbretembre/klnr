@@ -1,0 +1,7 @@
+{
+  "name": "kuliner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
